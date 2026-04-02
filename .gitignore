@@ -1,0 +1,6 @@
+# Root level
+node_modules/
+seedAdmin.js
+.env
+*.log
+.DS_Store
